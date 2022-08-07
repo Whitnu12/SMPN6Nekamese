@@ -66,7 +66,7 @@
                             
                             
                                 
-                            <h3 class="widget_title">Cari Berita</h3>
+                            <h3 class="widget_title">Cari Kegiatan</h3>
                             
                             <form action="<?php echo site_url('blog/search');?>" method="get">
                                 <div class="form-group">
@@ -86,7 +86,7 @@
                         </aside>
 
                         <aside class="single_sidebar_widget post_category_widget">
-                            <h4 class="widget_title">Kategori Berita</h4>
+                            <h4 class="widget_title">Kategori Kegiatan</h4>
                             <ul class="list cat-list">
                                 
                                 <?php foreach ($category->result() as $row) : ?>
