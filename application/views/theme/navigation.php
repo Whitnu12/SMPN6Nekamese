@@ -17,8 +17,9 @@
                                                 <li><a  href="<?php echo base_url('');?>">home</a></li>                                                
                                                 <li><a href="#">Profile <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
-                                                        <li><a href="<?php echo site_url('about');?>">Tentang</a></li>
-                                                        <li><a href="<?php echo site_url('Visi_misi');?>">Visi Misi</a></li>
+                                                        <li><a href="<?php echo site_url('about');?>">Sambutan</a></li>
+                                                        <li><a href="<?php echo site_url('profil');?>">Tentang</a></li>
+                                                        <li><a href="<?php echo site_url('visi_misi');?>">Visi Misi</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="#">Akademik <i class="ti-angle-down"></i></a>

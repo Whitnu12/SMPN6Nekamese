@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="MURIS STUDIO WEB SEKOLAH GRATIS PREMIUM">
+  <meta name="description" content="Dzikril Hakim">
   <meta name="author" content="SMPN 6 Nekamese">
 
   <title><?php echo isset($breadcrumb) ? $breadcrumb : ''; ?></title>
