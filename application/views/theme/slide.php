@@ -14,6 +14,5 @@
                 </div>
             </div>
             <!--/ single_carouse -->
-            
         </div>
     </div>
