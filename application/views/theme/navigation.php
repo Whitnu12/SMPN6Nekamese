@@ -18,6 +18,7 @@
                                                 <li><a href="#">Profile <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="<?php echo site_url('about');?>">Sambutan</a></li>
+                                                        <li><a href="<?php echo site_url('sejarah');?>">Sejarah</a></li>
                                                         <li><a href="<?php echo site_url('profil');?>">Tentang</a></li>
                                                         <li><a href="<?php echo site_url('visi_misi');?>">Visi Misi</a></li>
                                                     </ul>

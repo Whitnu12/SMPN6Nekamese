@@ -3,7 +3,7 @@
 <div class="event_details_area section__padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-15">
                     <div class="single_event d-flex align-items-center">
                         <div class="thumb">
                             <img src="<?php echo base_url('');?>style/img/event/kepala-sekolah.jpg" alt="kepala sekolah">
