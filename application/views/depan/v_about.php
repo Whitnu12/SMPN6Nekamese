@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <div class="single_event d-flex align-items-center">
                     <div class="thumb">
-                        <img src="<?php echo base_url(''); ?>assets/images/kepsek.jpeg" alt="kepala sekolah">
+                        <img src="<?php echo base_url(''); ?>style/img/event/dede.jpg" alt="kepala sekolah">
                     </div>
                     <div class="event_details_info">
                         <div class="event_info">
