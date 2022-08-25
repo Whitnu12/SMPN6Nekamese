@@ -13,8 +13,8 @@
 
 
 
-
-
+        
+            
                 <?php foreach ($data->result() as $row) : ?>
                     <div class="single_event d-flex align-items-center">
                         <div class="date text-center">
