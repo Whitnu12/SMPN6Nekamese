@@ -206,7 +206,7 @@
                                 <div class="single-gallery-image img-fluid" style="background: url(<?php echo base_url() . 'assets/images/' . $row->galeri_gambar; ?>);"></div>
                             </a>
                             <div class="portfolio-info">
-                                <h4>Peresmian Durkosjek</h4>
+                                <h4>Peresmian Website SMPN6 NEKAMESE</h4>
                             </div>
                         <?php endforeach; ?>
                     </div>
