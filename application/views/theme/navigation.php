@@ -6,7 +6,7 @@
                     <div class="header_left">
                         <div class="logo">
                             <a href="<?php echo base_url(''); ?>">
-                                <img src="<?php echo base_url(''); ?>style/img/sekolah.png" alt="">
+                                <img src="<?php echo base_url(''); ?>style/img/Sekolah.png" alt="">
                             </a>
                         </div>
                     </div>

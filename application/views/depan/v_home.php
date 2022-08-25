@@ -54,7 +54,7 @@ function limit_words($string, $word_limit)
                             <p><?php echo limit_words($row->tulisan_isi, 10) . '...'; ?></p>
                             <p class="d-flex align-items-center"> <span><i class="flaticon-calendar-1"></i> <?php echo $row->tanggal; ?></span>
 
-                                <span> <i class="flaticon-comment"></i> 01 comments</span>
+                                
                             </p>
                         </div>
                     </div>

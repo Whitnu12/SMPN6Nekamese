@@ -14,10 +14,10 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                            Dashboard
+                            Beranda
                         </h3>
                         <ul>
-                            <li><a href="<?php echo site_url(); ?>">Dashboard</a></li>
+                            <li><a href="<?php echo site_url(); ?>">Home</a></li>
                             <li><a href="<?php echo site_url('about'); ?>">Tentang Sekolah</a></li>
                             <li><a href="<?php echo site_url('artikel'); ?>">Berita Sekolah</a></li>
                             <li><a href="<?php echo site_url('galeri'); ?>">Galeri Sekolah</a></li>
@@ -52,14 +52,14 @@
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
 
-                                <p>Call : 0852 0508 5629</p>
+                                <p>Call : +62 812-3367-7674</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
 
-                                <p>smpn6nekamese@sch.id</p>
+                                <p>smpn6nekamese@gmail.com</p>
                             </div>
                         </div>
 
