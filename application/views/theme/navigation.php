@@ -28,10 +28,14 @@
                                             <li><a href="<?php echo site_url('pengumuman'); ?>">Pengumuman</a></li>
 
                                             <li><a href="<?php echo site_url('agenda'); ?>">Agenda</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Kegiatan <i class="ti-angle-down"></i></a>
+                                        <ul class="submenu">
+                                            <li><a href="<?php echo site_url('blog'); ?>">Kegiatan</a></li>
                                             <li><a href="<?php echo site_url('galeri'); ?>">Galeri</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?php echo site_url('blog'); ?>">Kegiatan</a></li>
                                 </ul>
                             </nav>
                         </div>
