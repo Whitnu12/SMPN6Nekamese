@@ -7,7 +7,7 @@
                         <p><span>Call : +62 812-3367-7674</span> || <span>Email : smpn6nekamese@gmail.com</span></p>
                     </div>
                     <div class="text_wrap">
-                        <p><a href="http://localhost/website-sekolah/admin/login"> <i class="ti-user"></i> Login</a>
+                        <p><a href="<?php echo site_url('admin/login'); ?>"> <i class="ti-user"></i> Login</a>
                     </div>
                 </div>
             </div>
